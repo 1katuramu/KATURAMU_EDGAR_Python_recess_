@@ -1,7 +1,7 @@
 #Python Best Practices
 """ _Summary_
    follow PEP 8
-1. Indntation
+1. Indentation
 2. Maximum line Length
 3. Blank lines
 4. Use meaningful names
